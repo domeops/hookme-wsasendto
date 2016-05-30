@@ -1,0 +1,6 @@
+C:\Users\Cancer\Documents\hookme\hook\bin\Debug\Installer.exe
+C:\Users\Cancer\Documents\hookme\hook\bin\Debug\Installer.pdb
+C:\Users\Cancer\Documents\hookme\Installer\obj\x86\Debug\Installer.FormDownloader.resources
+C:\Users\Cancer\Documents\hookme\Installer\obj\x86\Debug\Installer.csproj.GenerateResource.Cache
+C:\Users\Cancer\Documents\hookme\Installer\obj\x86\Debug\Installer.exe
+C:\Users\Cancer\Documents\hookme\Installer\obj\x86\Debug\Installer.pdb
